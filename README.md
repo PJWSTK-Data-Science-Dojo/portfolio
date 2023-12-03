@@ -1,20 +1,38 @@
-# portfolio
+# Portfolio
 Data Science Dojo portfolio available through Streamlit application
 
-# installation
+# Installation
 python -m venv venv
 
 .\venv\Scripts\activate
 
 pip install -r requirements.txt
 
-# run
-streamlit run home.py
+# Run
+streamlit run Portfolio.py
 
-# add new subpage
-create new .py file in *pages* catalog. New web page will appear automatically.
+# Add new subpage
+create new .py file in *pages* catalog. New web page will appear automatically. \
+every page must contain the following as the first lines: 
+``` python
+from render_project import render_project
+from find_project import find_project
+from initialize_page import initialize_page
 
-# additional info
-style/style.css -> main css file
+initialize_page()
+streamlit_project = find_project("ProjectName")
+render_project(streamlit_project)
+```
 
-images -> main images catalog
+
+# Styling
+### Streamlit
+Streamlit allows for some basic styling. \
+The config for it is `.streamlit/config.toml`. \
+To apply that theme, select it in the top-right menu of the app.
+
+### CSS
+Additional styling can be done for example in `style/style.css` \
+
+### Images
+`/images` -> main images catalog \
