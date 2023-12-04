@@ -1,0 +1,170 @@
+[
+  {
+    "project_name": "Streamlit",
+    "project_link": "",
+    "project_description": "Stworzenie witryny internetowej przy pomocy biblioteki Streamlit, na której prezentowane byłyby efekty pracy indywidualnych i grupowych członków Koła.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "8 godzin",
+    "project_members": [
+      "... mention if there are specialists of that field in the team",
+      ""
+    ],
+    "utilized_technical_resources": [
+      "Python, Streamlit"
+    ],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+
+
+  {
+    "project_name": "Kosmos",
+    "project_link": "https://example.com/projekt_a",
+    "project_description": "Automatyczna identyfikacja wcześniej nie zaobserwowanych planet, które zauważyć można poprzez ich przesunięcie po tarczy obserwowanych gwiazd.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": ["", ""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      },
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "project_name": "AI-Augmented Customer Service",
+    "project_link": "https://example.com/projekt_b",
+    "project_description": "Project analizy, stworzenia rekomendacji oraz implementacji AI dla rozwiązań obsługi klientów w branży telekomunikacyjnej.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": ["", ""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "project_name": "Prop-desk",
+    "project_link": "",
+    "project_description": "Przegląd dostępnych rozwiązań, możliwych do wykorzystania do automatyzacji obsługi zgłoszeń klientów.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+       {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "project_name": "Multi-Agent LLM",
+    "project_link": "",
+    "project_description": "Stworzenie architektury wielu komunikujących się ze sobą modelu LLM",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "project_name": "SynVision",
+    "project_link": "https://example.com/projekt_e",
+    "project_description": "Generowanie oraz rozpoznawanie DeepFake’ów",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+
+  {
+    "project_name": "Chess-cheater",
+    "project_link": "https://example.com/projekt_e",
+    "project_description": "Wskazywanie partii lub ruchów szachowych, które zostały wykonane przez lub przy pomocy silników szachowych.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+
+  {
+    "project_name": "Blog",
+    "project_link": "https://example.com/projekt_e",
+    "project_description": "Tworzenie treści z obszaru Data Science, w postaci m.in. artykułów popularnonaukowych, wpisów z wydarzeń, studium przypadków lub opisujących aktywność DSC.",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  },
+
+  {
+    "project_name": "ChatBot",
+    "project_link": "https://example.com/projekt_e",
+    "project_description": "Stworzenie lokalnego chatbota, do którego można podać dowolny zbiór wiedzy, z której będzie korzystał",
+    "project_goal": "",
+    "start_time": "2023-01-01",
+    "spent_time": "",
+    "project_members": [""],
+    "utilized_technical_resources": [""],
+    "tests_and_their_results": [
+      {
+        "name": "",
+        "description_md": "",
+        "result": ""
+      }
+    ]
+  }
+]
